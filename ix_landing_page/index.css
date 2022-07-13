@@ -1,0 +1,47 @@
+html{
+    display: block;
+    background-color: #192841;
+}
+body{
+    display: block;
+    align-content: center;
+    padding: 5%;
+    margin: 8px;
+}
+.whole_border{
+    padding: 5px 10px 5px 10px;
+    margin: 20px;
+    border: 10px;
+}
+div{
+    display: block;
+}
+#center{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.margin{
+    padding: 5px 10px 5px 10px;
+    margin:20px;
+    border-color: white;
+    border-radius: 5px;
+}
+.writng{
+    color: white;
+    margin: 50px 10px 50px 100px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
